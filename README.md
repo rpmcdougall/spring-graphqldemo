@@ -2,8 +2,8 @@
 
 ## Endpoints
 
-# GraphQL: /graphql
-# GraphIQL: /graphiql
+- GraphQL: /graphql
+- GraphIQL: /graphiql
 
 ## Test Query
 
