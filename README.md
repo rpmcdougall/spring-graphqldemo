@@ -1,5 +1,10 @@
 # spring-graphqldemo
 
+## Endpoints
+
+# GraphQL: /graphql
+# GraphIQL: /graphiql
+
 ## Test Query
 
 ```
